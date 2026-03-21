@@ -1,16 +1,20 @@
-## Hi there 👋
 # NetSecNode
-<!--
-**NetSecNode/NetSecNode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🖧 **Networking** · 🖥️ Systems Administration · 🔐 Cybersecurity · 🤖 Prompt Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+I work across network infrastructure, system administration, and — more recently — cybersecurity and AI-adjacent topics.
+
+This profile is where I keep notes, experiments, and small tools from that work — nothing polished for show, just things I've built or learned from.
+
+**Areas you'll find here:**
+
+- 🌐 Network & system administration (Linux, Windows Server, VMware, Cisco, Fortinet)
+- 🛠️ Scripting and automation (Bash, PowerShell, Python)
+- 🔍 Cybersecurity practice: vulnerability assessment, SIEM/log analysis, CTF/HTB labs (Kali, Splunk)
+- 🧠 Prompt engineering — structured prompting, LLM behavior, practical patterns
+
+---
+
+💬 Open to conversations about infrastructure projects, security tooling, or anything at the intersection of ops and AI.
