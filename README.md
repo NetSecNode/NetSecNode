@@ -1,6 +1,6 @@
 # NetSecNode
 
-🖧 **Networking** · 🖥️ Systems Administration · 🔐 Cybersecurity · 🤖 Prompt Engineering
+🖧 Networking · 🖥️ Systems Administration · 🔐 Cybersecurity · 🤖 Prompt Engineering
 
 ---
 
